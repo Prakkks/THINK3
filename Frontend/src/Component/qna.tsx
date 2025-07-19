@@ -60,7 +60,8 @@ const Qna = () => {
     let isMounted = true;
     async function fetchquestions() {
       try {
-        const res = await fetch("http://localhost:5000/api/random_unique");
+        // const res = await fetch("http://localhost:5000/api/random_unique");
+        const res = await fetch(`${import.meta.env.REACT_APP_API_URL}/api/endpoint`);
         if (res.ok) {
           const data = await res.json();
           if (isMounted) {
