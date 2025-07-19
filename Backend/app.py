@@ -8,10 +8,11 @@ from pymongo import MongoClient,  errors
 app = Flask(__name__)
 CORS(app)
 
-uri = "mongodb+srv://learnaitechtrove:1w7pHGOvfiSKAxYm@prakriti-0.tjvlmzt.mongodb.net/?retryWrites=true&w=majority&appName=Prakriti-0"
-
+# uri = "mongodb+srv://learnaitechtrove:1w7pHGOvfiSKAxYm@prakriti-0.tjvlmzt.mongodb.net/?retryWrites=true&w=majority&appName=Prakriti-0"
+import os
+mongo_uri = os.environ.get("MONGO_URI")
 try:
-    client = MongoClient(uri, serverSelectionTimeoutMS=5000)
+    client = MongoClient(mongo_uri, serverSelectionTimeoutMS=5000)
     db = client["mydb"]
     collection = db["qna"]
 except errors.ServerSelectionTimeoutError as err:
@@ -59,5 +60,5 @@ def random_unique():
     return jsonify(entry)
 
 
-if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
