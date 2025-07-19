@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Sleeping",
+    "title": "What are 3 things you need to sleep?",
+    "things": ["Bed", "Pillow", "Blanket"]
+  },
+  {
+    "category": "Cooking",
+    "title": "What are 3 things you need to cook rice?",
+    "things": ["Rice", "Water", "Pressure cooker , Pot , Rice Cooker"]
+  },
+  {
+    "category": "Studying",
+    "title": "What are 3 things you need to study effectively?",
+    "things": ["Notebook , Book ", "Pen , Pencil", "Silence , Quiet environment"]
+  },
+  {
+    "category": "Travel",
+    "title": "What are 3 things you need when going on a trip?",
+    "things": ["Clothes, Cloth , Dress ", "Toothbrush , Brush ", "Phone charger , Power bank "]
+  },
+  {
+    "category": "Cleaning",
+    "title": "What are 3 things you need to clean a room?",
+    "things": ["Broom , Vacuum", "Dustpan", "Cleaning spray , Cloth"]
+  },
+  {
+    "category": "Fitness",
+    "title": "What are 3 things you need for a home workout?",
+    "things": ["Yoga mat , Mat ", "Water bottle", "Dumbbells, dumbell , Resistance band"]
+  },
+  {
+    "category": "Drawing",
+    "title": "What are 3 things you need for drawing?",
+    "things": ["Paper", "Pencil", "Colors, color , paints, paint , paint brush"]
+  },
+  {
+    "category": "Hiking",
+    "title": "What are 3 things you need for a hike?",
+    "things": ["Shoes , shoe ", "Backpack , bag ", "Water , Energy drink"]
+  },
+  {
+    "category": "Photography",
+    "title": "What are 3 things you need for photography?",
+    "things": ["Camera", "Tripod , Iphone , Phone ", "Memory card , memory , Storage device"]
+  },
+  {
+    "category": "Office Work",
+    "title": "What are 3 things you need for office work?",
+    "things": ["Laptop", "Internet connection, internet", "Chair , Desk"]
+  },
+  {
+    "category": "Hair Care",
+    "title": "What are 3 things you need to wash your hair?",
+    "things": ["Shampoo", "Water", "Towel , Hair dryer"]
+  },
+  {
+    "category": "Gardening",
+    "title": "What are 3 things you need for gardening?",
+    "things": ["Soil", "Watering can", "Seeds , Plants"]
+  },
+  {
+    "category": "Camping",
+    "title": "What are 3 things you need for camping?",
+    "things": ["Tent", "Sleeping bag", "Flashlight , Torch"]
+  },
+  {
+    "category": "Pet Care",
+    "title": "What are 3 things you need to take care of a dog?",
+    "things": ["Dog food", "Leash", "Water bowl , Feeder"]
+  },
+  {
+    "category": "School",
+    "title": "What are 3 things you need to go to school?",
+    "things": ["Bag", "Books", "Uniform , ID card"]
+  },
+  {
+    "category": "Makeup",
+    "title": "What are 3 things you need for basic makeup?",
+    "things": ["Foundation", "Lipstick , Lip balm", "Mirror"]
+  },
+  {
+    "category": "Painting",
+    "title": "What are 3 things you need for painting?",
+    "things": ["Brush", "Colors , Paints", "Canvas , Paper"]
+  },
+  {
+    "category": "Tech Setup",
+    "title": "What are 3 things you need for a Zoom meeting?",
+    "things": ["Laptop , Phone", "Headphone", "Good lighting"]
+  },
+  {
+    "category": "Baking",
+    "title": "What are 3 things you need to bake a cake?",
+    "things": ["Flour", "Eggs", "Oven , Microwave"]
+  },
+  {
+    "category": "Shopping",
+    "title": "What are 3 things you need when grocery shopping?",
+    "things": ["Money , Card, QR", "Shopping list", "Bag"]
+  }
+]

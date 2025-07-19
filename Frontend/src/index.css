@@ -1,0 +1,43 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+*{
+  scroll-behavior: smooth;
+}
+
+
+
+.inspiration-regular {
+  font-family: "Inspiration", cursive;
+  font-weight: bolder;
+  font-style: normal;
+}
+
+.playfulfont
+{
+  font-family: "Playfair Display", serif;
+}
+
+input[type="text"] {
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+    /* 
+    input[type="text"]:focus {
+      outline: none;
+    } */
+
+
+
+    @layer utilities {
+      .answer-box {
+        @apply border-none outline-none text-sm md:text-base min-w-1/5   rounded-md py-3 pl-3 p-2 md:p-5;
+      }
+    
+      .btn-green {
+        @apply bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600;
+      }
+    }

@@ -1,0 +1,1 @@
+export const  game_description = ", the fast-paced game that tests your brain under pressure! You’ll be given a fun, tricky, or thought-provoking question — and your challenge is to name 3 correct answers related to it… in just 60 seconds!";
