@@ -44,7 +44,7 @@ This project was a fantastic way to deepen my skills in:
 
 ## Screenshot
 
-![Home Page](frontend/public/Screenshot%202025-07-19%20201326.png)
-![Mobile View](frontend/public/Screenshot%202025-07-19%20201355.png)
+![Home Page](Frontend/public/Screenshot%202025-07-19%20201326.png)
+![Mobile View](Frontend/public/Screenshot%202025-07-19%20201355.png)
 ![Mobile View](Frontend/public/Screenshot%202025-07-19%20201428.png)
 ![PC View](Frontend/public/Screenshot%202025-07-19%20201448.png)
