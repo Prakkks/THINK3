@@ -1,12 +1,12 @@
 # Think3 - Fun IQ Test Quiz App 🎉🧠
 
-Think3 is a fun and interactive IQ test quiz app that challenges your brain with timed questions. It’s designed to be fast, smooth, and visually engaging — perfect for a quick mental workout!
+Think3 is a fun and interactive thik 3 answers challenge  that test your brain with timed questions. It’s designed to be fast, smooth, and visually engaging — perfect for a quick mental workout!
 
 ---
 
 ## What is Think3?
 
-Think3 presents random questions where you have 60 seconds to guess the answers. The game tracks your input, gives instant feedback, and shows your progress in real-time. It’s a cool way to test your IQ and thinking speed!
+Think3 presents random questions where you have 60 seconds to guess the answers. The game tracks your input,  and shows your guesses in real-time.
 
 ---
 
